@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "assignment-openlm"
+    }
+  },
+  "defaultProject": "assignment-openlm",
+  "cli": {
+    "analytics": false
+  }
 }

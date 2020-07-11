@@ -1,0 +1,35 @@
+.d-flex {
+    display: flex;
+}
+
+.alert {
+    width: 40%;
+    margin: 0 auto;
+    padding: 3px;
+    text-align: center;
+}
+
+.btn-cell {
+  padding: 2px 9px;
+  margin: 0 7px;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.table-input-price {
+  width: 60px;
+}
+@media screen and (min-width: 1000px) {
+.container {
+    width: 65%;
+}
+}
